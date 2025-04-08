@@ -1,0 +1,41 @@
+.custom-navbar {
+  background-color: #484848 !important; /* Primary color */
+  padding: 10px 20px;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: white !important;
+}
+
+.nav-link {
+  color: white !important;
+  font-size: 1rem;
+  margin-left: 15px;
+  display: flex;
+  align-items: center;
+}
+
+.nav-icon {
+  margin-right: 8px;
+}
+
+.profile-dropdown {
+  background-color: transparent !important;
+  border: none;
+  color: white !important;
+}
+
+.profile-dropdown:hover {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+.dropdown-menu {
+  min-width: 180px;
+  text-align: center;
+}
+
+.dropdown-item {
+  font-size: 0.9rem;
+}
